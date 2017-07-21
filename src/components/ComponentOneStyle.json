@@ -1,0 +1,46 @@
+{
+  "boxContainerStyles": {
+    "c1container": {
+      "flexDirection": "column",
+      "backgroundColor": "#055171",
+      "flex": 0.4,
+      "alignItems": "center",
+      "justifyContent": "center"
+    },
+    "c2container": {
+      "flexDirection": "column",
+      "backgroundColor": "#055171",
+      "flex": 0.6,
+      "alignItems": "center",
+      "justifyContent": "center"
+    },
+    "c1TitleStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 25,
+      "color": "#ffffff"
+    },
+    "c2TitleStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 0,
+      "color": "#ffffff"
+    },
+    "c1ImageStyle": {
+      "height": 50,
+      "width" : 50
+    },
+    "c2ImageStyle": {
+      "height": 0,
+      "width" : 0
+    },
+    "c1ValueStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 0,
+      "color": "#ffffff"
+    },
+    "c2ValueStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 40,
+      "color": "#ffffff"
+    }
+  }
+}

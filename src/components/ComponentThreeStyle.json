@@ -1,0 +1,61 @@
+{
+  "boxContainerStyles": {
+    "c1container": {
+      "flexDirection": "column",
+      "backgroundColor": "#055171",
+      "flex": 0.45,
+      "alignItems": "center",
+      "justifyContent": "center"
+    },
+    "c2mcontainer": {
+      "backgroundColor": "#055171",
+      "flex": 0.55
+    },
+    "c1TitleStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 25,
+      "color": "#ffffff"
+    },
+    "c2mTitleStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 0,
+      "color": "#ffffff"
+    },
+    "c1ImageStyle": {
+      "height": 50,
+      "width" : 50
+    },
+    "c2mImageStyle": {
+      "height": 40,
+      "width" : 40,
+      "borderRadius": 20
+    },
+    "c1ValueStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 0,
+      "color": "#ffffff"
+    },
+    "c2mValueStyle": {
+      "line1":{
+        "fontFamily": "roboto",
+        "fontSize": 12,
+        "color": "#06e5ff"
+      },
+      "line2":{
+        "fontFamily": "roboto",
+        "fontSize": 12,
+        "color": "#ffffff"
+      },
+      "line3":{
+        "fontFamily": "roboto",
+        "fontSize": 12,
+        "color": "#06e5ff"
+      },
+      "line4":{
+        "fontFamily": "roboto",
+        "fontSize": 12,
+        "color": "#ffffff"
+      }
+    }
+  }
+}

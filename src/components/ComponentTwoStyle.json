@@ -1,0 +1,114 @@
+{
+  "boxContainerStyles": {
+    "c1container": {
+      "flexDirection": "column",
+      "backgroundColor": "#1f6f90",
+      "flex": 0.45,
+      "alignItems": "center",
+      "justifyContent": "center"
+    },
+    "c2container": {
+      "flexDirection": "column",
+      "backgroundColor": "#1f6f90",
+      "flex": 0.55,
+      "alignItems": "center",
+      "justifyContent": "center"
+    },
+    "c2R1container": {
+      "flexDirection": "column",
+      "backgroundColor": "#1f6f90",
+      "flex": 0.3,
+      "alignItems": "flex-start",
+      "justifyContent": "center"
+    },
+    "c2R2mcontainer": {
+      "flexDirection": "column",
+      "backgroundColor": "#1f6f90",
+      "flex": 0.7,
+      "alignItems": "center",
+      "justifyContent": "flex-start"
+    },
+    "c1TitleStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 25,
+      "color": "#ffffff"
+    },
+    "c2R1TitleStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 0,
+      "color": "#ffffff"
+    },
+    "c2R2mTitleStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 0,
+      "color": "#ffffff"
+    },
+    "c1ImageStyle": {
+      "height": 50,
+      "width" : 50
+    },
+    "c2R1ImageStyle": {
+      "height": 0,
+      "width" : 0
+    },
+    "c2R2mImageStyle": {
+      "height": 0,
+      "width" : 0
+    },
+    "c1ValueStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 0,
+      "color": "#ffffff"
+    },
+    "c2R1ValueStyle": {
+      "fontFamily": "roboto",
+      "fontSize": 40,
+      "textAlign": "left",
+      "color": "#ffffff"
+    },
+    "c2R2mValueStyle": {
+      "line1Style": {
+        "fontFamily": "roboto",
+        "fontSize": 14,
+        "color": "#06e5ff",
+        "alignSelf": "flex-start"
+      },
+      "line2Style": {
+        "fontFamily": "roboto",
+        "fontSize": 14,
+        "alignSelf": "flex-start",
+        "color": "#ffffff"
+      },
+      "line3Style": {
+        "fontFamily": "roboto",
+        "fontSize": 18,
+        "color": "#06e5ff"
+      },
+      "line4Style": {
+        "fontFamily": "roboto",
+        "fontSize": 18,
+        "color": "#06e5ff"
+      },
+      "line5Style": {
+        "fontFamily": "roboto",
+        "fontSize": 18,
+        "color": "#ffffff"
+      },
+      "line6Style": {
+        "fontFamily": "roboto",
+        "fontSize": 18,
+        "color": "#06e5ff"
+      },
+      "line7Style": {
+        "fontFamily": "roboto",
+        "fontSize": 18,
+        "color": "#06e5ff"
+      },
+      "line8Style": {
+        "fontFamily": "roboto",
+        "fontSize": 18,
+        "color": "#ffffff"
+      }
+    }
+  }
+}
